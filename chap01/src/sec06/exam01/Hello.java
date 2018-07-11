@@ -1,7 +1,7 @@
 package sec06.exam01;
 /*
- * ÀÛ¼ºÀÚ : ÀÓ´Ù¿µ
- * ÀÛ¼ºÀÏ : 2018.07.11
+ * ì‘ì„±ì : ì„ë‹¤ì˜
+ * ì‘ì„±ì¼ : 2018.07.11
  */
 public class Hello {
 	public static void main(String args[]) {
