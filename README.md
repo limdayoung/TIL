@@ -1,12 +1,6 @@
 # Today I Learned
+Java Programming
 
 ## 20180711
-* class
-* function
-### java
+* chapter01 : start java
 
-Hello!
-
-## 20180712
-* List
-* Map
