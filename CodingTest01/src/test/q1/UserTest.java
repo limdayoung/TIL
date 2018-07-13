@@ -19,7 +19,7 @@ public class UserTest {
 		User c = a;
 		System.out.println(a == b); //false 주소값 비교, 서로다른 주소값
 		System.out.println(a == c); //true 주소값 비교, c에 a를 대입했기떄문에 같은 주소값 
-		System.out.println(a.equals(b)); //
+		System.out.println(a.equals(b)); //false
 	}
 
 	public class User { //innerClass
