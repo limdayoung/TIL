@@ -5,4 +5,4 @@ Java Programming
 * 이것이 자바다 chapter01 - start java
 
 ## 20180713
-* CodingTest01 - Q1
+* codingTest01 - Q1
