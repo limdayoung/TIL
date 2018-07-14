@@ -1,4 +1,4 @@
-package test.q1;
+package test.q01;
 /*
  * 작성자 : 임다영
  * 작성일 : 2018.07.13
