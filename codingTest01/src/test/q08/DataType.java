@@ -14,5 +14,24 @@ package test.q08;
  * ⑤ int 타입 변수는 4 byte의 메모리 공간을 사용한다.
  */
 public class DataType {
+	public static void main(String[] args) {
 
+		String a="a";
+		String b="b";
+		String c="a";
+		String st = new String("a");
+		
+		System.out.println(a==b);
+		System.out.println(a==c);
+		System.out.println(c==b);
+		
+		System.out.println(a==st);
+		
+		System.out.println(a);
+		System.out.println(b);
+		System.out.println(c);
+		System.out.println(st);
+
+	
+	}
 }
