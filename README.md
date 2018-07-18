@@ -12,3 +12,6 @@ Java Programming
 
 ## 20180717
 * codingTest01 - q11~q12
+
+## 20180719
+* codingTest01 - q13~q20
