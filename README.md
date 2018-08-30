@@ -17,4 +17,4 @@ Java Programming
 * codingTest01 - q13~q20
 
 ## 20180830
-* codingTest02 - no01 (LoopTest)
+* codingTest02 - no01 (Loop, Array, Interger)
