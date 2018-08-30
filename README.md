@@ -16,5 +16,5 @@ Java Programming
 ## 20180719
 * codingTest01 - q13~q20
 
-## 20180719
+## 20180830
 * codingTest02 - no01 (LoopTest)
